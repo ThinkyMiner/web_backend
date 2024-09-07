@@ -21,3 +21,9 @@ async fn main(){
     // endregion: Start the server
 
 }
+
+
+
+async fn handler_hello() -> impl IntoResponse{
+    
+}
